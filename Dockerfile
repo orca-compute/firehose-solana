@@ -1,4 +1,4 @@
-FROM docker pull 39z20094.c1.bhs5.container-registry.ovh.net/orca/firehose-core-koii@sha256:f023bccc67e4bcb1cf8f83d3c636e6c2a00108be0380a8001ae9fff5174a47cb as core
+FROM 39z20094.c1.bhs5.container-registry.ovh.net/orca/firehose-core-koii@sha256:f023bccc67e4bcb1cf8f83d3c636e6c2a00108be0380a8001ae9fff5174a47cb as core
 
 FROM ubuntu:20.04
 
