@@ -7,7 +7,6 @@
 /firedata
 /sf.yaml
 /proj
-/firesol
 .idea
 venv
 *.tfstate
